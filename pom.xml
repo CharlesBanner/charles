@@ -10,7 +10,7 @@
 
     <name>charles</name>
     <url>http://www.charles.vip</url>
-    <description>若依管理系统</description>
+    <description>滨海燃气营业物联网远传后台管理系统</description>
 
     <properties>
         <charles.version>1.0</charles.version>

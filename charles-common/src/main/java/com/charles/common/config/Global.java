@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * @author charles
  */
 @Component
-@ConfigurationProperties(prefix = "ruoyi")
+@ConfigurationProperties(prefix = "charles")
 public class Global
 {
     /** 项目名称 */
