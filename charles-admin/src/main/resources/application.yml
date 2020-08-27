@@ -1,7 +1,7 @@
 # 项目相关配置
-ruoyi:
+charles:
   # 名称
-  name: RuoYi
+  name: Charles
   # 版本
   version: 4.4.0
   # 版权年份
@@ -31,7 +31,7 @@ server:
 # 日志配置
 logging:
   level:
-    com.ruoyi: debug
+    com.charles: debug
     org.springframework: warn
 
 # 用户配置
